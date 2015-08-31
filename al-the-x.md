@@ -1,6 +1,6 @@
-# [Full Name](https://github.com/USERNAME)
+# [David Rogers](https://github.com/al-the-x)
 
-![Full Name](URL-to-IMAGE)
+![David Rogers (al-the-x)](https://avatars3.githubusercontent.com/u/96015?v=3&s=460)
 
 | category | value |
 |-----------|-------|
